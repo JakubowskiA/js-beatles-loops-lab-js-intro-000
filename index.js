@@ -26,3 +26,9 @@ while(i<facts.length)  {
 }
 return newFacts;
 }
+
+
+function iLoveTheBeatles(num) {
+  let arr = [];
+  
+}
