@@ -34,4 +34,5 @@ do {
   num++;
   arr.push("I love the Beatles!")
 } while (num<15);
+return arr;
 }
