@@ -30,5 +30,8 @@ return newFacts;
 
 function iLoveTheBeatles(num) {
   let arr = [];
-
+do {
+  num++;
+  arr.push("I love the Beatles!")
+} while (num<15);
 }
